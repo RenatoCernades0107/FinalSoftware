@@ -1,7 +1,5 @@
 import pytest
-from typing import Dict
 from Cuenta import Cuenta
-from Operacion import Operacion
 
 class TestClass:
     def setup_method(self):
